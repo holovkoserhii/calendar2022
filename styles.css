@@ -8,12 +8,13 @@ header, footer {
     justify-content: center;
     align-items: center;
     background-color: rgba(236, 211, 93, 0.99);
+    font-size: 24px;
 }
 
 .wrapper {
     position: relative;
     width: 100vw;
-    min-height: 90vh;
+    min-height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
