@@ -44,6 +44,7 @@ header, footer {
 .heading {
     margin-bottom: 50px;
     font-weight: 700;
+    width: 100%;
 }
 
 .authors {
